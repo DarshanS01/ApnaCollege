@@ -1,0 +1,35 @@
+#nav{
+    background-color: cadetblue;
+    list-style-type: none;
+    font-style: normal;
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+li{
+    display: inline-block;
+    color: white;
+
+
+}
+#o{
+background-color: black;
+height: 300px;
+width: 600px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+#t{
+    background-color: chartreuse;
+    height: 100px;
+    width: 200px;
+}
+#darsh{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border: 1px,none,solid;
+    border-radius: 50%;
+}
